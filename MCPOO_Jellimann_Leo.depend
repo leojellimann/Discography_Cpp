@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1585762336 source:d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<vector>
+	"Instrument.h"
+	"Membre.h"
+	"Musicien.h"
+	"Chanson.h"
+	"Album.h"
+	"Groupe.h"
+
+1585143734 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\necessaire.h
+	<string>
+
+1585148780 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\instrument.h
+	<string>
+	<vector>
+
+1585751206 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\membre.h
+	<string>
+	<vector>
+
+1585423854 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\musicien.h
+	<string>
+	<vector>
+
+1585153445 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\chanson.h
+	<string>
+	<vector>
+
+1585757555 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\album.h
+	<string>
+	<vector>
+
+1585687828 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\groupe.h
+	<string>
+	<vector>
+
+1585762336 source:d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\programme\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<vector>
+	"Instrument.h"
+	"Membre.h"
+	"Musicien.h"
+	"Chanson.h"
+	"Album.h"
+	"Groupe.h"
+
+1585148780 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\programme\instrument.h
+	<string>
+	<vector>
+
+1585751206 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\programme\membre.h
+	<string>
+	<vector>
+
+1585423854 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\programme\musicien.h
+	<string>
+	<vector>
+
+1585153445 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\programme\chanson.h
+	<string>
+	<vector>
+
+1585757555 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\programme\album.h
+	<string>
+	<vector>
+
+1585687828 d:\onedrive\documents\dut\geii2\mcpoo\mcpoo_jellimann_leo\programme\groupe.h
+	<string>
+	<vector>
+
